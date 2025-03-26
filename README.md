@@ -1,16 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Lists and Keys**.
-
-### Refer to the image below:
-
-<br>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/my-tasks-output.mp4" type="video/mp4">
-    
-  </video>
-</div>
-<br/>
-
+URL : <a href='https://ksptaskapp.ccbp.tech/'>ksptaskapp</a>
 ### Design Files
 
 <details>
@@ -94,7 +82,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
